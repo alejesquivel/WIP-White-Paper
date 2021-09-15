@@ -1,0 +1,6 @@
+import hashlib
+import json
+import time from time
+
+class Blockchain(object):
+    def __init__(self):
