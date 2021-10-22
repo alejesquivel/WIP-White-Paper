@@ -1,0 +1,96 @@
+1: Can speaker be interrupted? Y/N
+2. Need a Second to proceed? Y/N 
+3. Can the action be debated? Y/N 
+4. Can the action be amended? Y/N 
+5. How many votes are needed to proceed with action? Majority, Chair, No vote, 2/3
+
+Introduce main motion: "I move to..."
+1. N
+2. Y
+3. Y
+4. Y
+5. Majority
+  
+Amend a motion: "I move to amend the motion by..."
+1. N
+2. Y
+3. Y
+4. Y
+5. Majority
+
+Move item to committee: "I move that we refer the matter to committee"
+1. N
+2. Y
+3. Y
+4. N
+5. Majority
+ 
+Postpone item: "I move the previous question" 
+1. N
+2. Y
+3. Y
+4. N
+5. Majoirty
+ 
+End Debate: "I move the previous question"
+1. N
+2. Y
+3. Y
+4. N
+5. Majority
+
+Object to procedure: "Point of order
+1. Y
+2. N
+3. N
+4. N 
+5. Chair
+
+Recess the meeting: "I mobe that we recess until..."
+1. N
+2. Y
+3. N
+4. N
+5. Majority
+
+Adjourn the meeting: "I move to adjourn the meeting"
+1. N
+2. Y
+3. N
+4. N
+5. N
+
+Request information:"Point of information"
+1. Y
+2. N
+3. N
+4. N
+5. No vote
+
+Overrule the chair's ruling: "I move to overrule the chair's ruling"
+1. Y
+2. Y
+3. Y
+4. N
+5. Majority
+
+Extend alotted time: "I move to extend the time by ___ minutes"
+1. N
+2. Y
+3. N
+4. Y
+5. 2/3
+
+Enforce the rules or point out incorrect procedure:"Point of order"
+1. Y
+2. N
+3. N
+4. N
+5. No vote
+
+Table a motion: "I move to table..."
+1. N
+2. Y
+3. N
+4. N
+5. Majority
